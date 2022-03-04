@@ -6,7 +6,7 @@
 // //  ZADANIE 6
 // #include <stdio.h>
 // #include <stdlib.h>
-// #include "makra.h"
+// #include "makra2.h"
 
 
 
@@ -15,11 +15,11 @@
 //     float zmienna;
 //     osoba posortowane[5];
 //     osoba tab[5]={
-//         {"Bartosz", "Wronski"},
-//         {"Franciszek", "Wronski"},
-//         {"Anna", "Banaszczyk"},
-//         {"Katarzyna", "Banaszczyk"},
-//         {"Konrad", "Stepien"}
+//         {"kryhty", "nvnvdfd"},
+//         {"fhfghfgh", "lkjh"},
+//         {"dhdfhdhrd", "qwert"},
+//         {"yrtyrydry", "bvcbgf"},
+//         {"rdydryrdy", "bvnbn"}
 //         };
 
 
